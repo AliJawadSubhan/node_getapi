@@ -1,0 +1,23 @@
+{
+  "name": "users_node",
+  "version": "1.0.0",
+  "description": "nothing much",
+  "main": "app.js",
+  "scripts": {
+    "test": "app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AliJawadSubhan/node_getapi.git"
+  },
+  "keywords": [
+    "ali",
+    "jawad"
+  ],
+  "author": "Ali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AliJawadSubhan/node_getapi/issues"
+  },
+  "homepage": "https://github.com/AliJawadSubhan/node_getapi#readme"
+}
